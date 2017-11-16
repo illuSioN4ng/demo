@@ -1,0 +1,35 @@
+/*
+* @Author: illuSioN4ng
+* @Date:   2017-11-16 19:58:18
+* @Last Modified by:   illuSioN4ng
+* @Last Modified time: 2017-11-16 20:49:35
+*/
+body {
+	font-family: "PingHei","Lucida Grande", "Lucida Sans Unicode", "STHeiti", "Helvetica","Arial","Verdana","sans-serif";
+	background-color: #efefef;
+}
+
+.title {
+	font-size: 4em;
+	line-height: 200px;
+	text-align: center;
+}
+..banner-container {
+	text-align: center;
+}
+
+.banner-container img {
+	width: 100%;
+}
+
+.content {
+	text-indent: 2em;
+	font-size: 2.2em;
+	line-height: 2.5em;
+	padding: 20px;
+}
+
+.footer {
+	font-size: 2.2em;
+	padding: 20px 50px;
+}
