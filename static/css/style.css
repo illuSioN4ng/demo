@@ -7,6 +7,7 @@
 body {
 	font-family: "PingHei","Lucida Grande", "Lucida Sans Unicode", "STHeiti", "Helvetica","Arial","Verdana","sans-serif";
 	background-color: #efefef;
+    padding: 30px;
 }
 
 .title {
@@ -27,7 +28,7 @@ body {
 	text-indent: 2em;
 	font-size: 2.2em;
 	line-height: 2.5em;
-	padding: 20px;
+	/*padding: 20px;*/
 }
 
 .footer {
@@ -36,6 +37,7 @@ body {
 }
 
 .log-container {
+    padding: 30px;
     text-align: center;
 }
 
